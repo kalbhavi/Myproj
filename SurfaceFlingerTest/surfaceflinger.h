@@ -1,6 +1,6 @@
 #ifndef _SURFACEFLINGER_H_
 #define _SURFACEFLINGER_H_
-
+/* This is new check-in from master */
 #ifdef __cplusplus
 extern "C" {
 #endif
