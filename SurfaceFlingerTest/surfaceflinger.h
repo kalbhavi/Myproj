@@ -1,6 +1,7 @@
 #ifndef _SURFACEFLINGER_H_
 #define _SURFACEFLINGER_H_
 /* This is new check-in from master */
+/* A new commit from development branch */
 #ifdef __cplusplus
 extern "C" {
 #endif
