@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 //This file demostrates the surface flinger
+/* Changes are done from development branch */
 #include "surfaceflinger.h"
 
 #define RGBA8888(r, g, b, a)	\
