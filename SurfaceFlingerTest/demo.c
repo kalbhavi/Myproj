@@ -6,6 +6,9 @@
 /* Changes are done from master branch1 */
 /* Changes are done from master branch2 */
 /* Changes are done from master branch3 */
+/* This is the commit after merge from development branch 1 */
+/* This is the commit after merge from development branch 2 */
+/* This is the commit after merge from development branch 3 */
 #include "surfaceflinger.h"
 
 #define RGBA8888(r, g, b, a)	\
