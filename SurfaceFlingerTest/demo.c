@@ -4,6 +4,7 @@
 //This file demostrates the surface flinger
 /* Changes are done from development branch */
 /* This is the commit after merge from development branch 1 */
+/* This is the commit after merge from development branch 2 */
 #include "surfaceflinger.h"
 
 #define RGBA8888(r, g, b, a)	\
