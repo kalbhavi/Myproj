@@ -3,6 +3,7 @@
 #include <unistd.h>
 //This file demostrates the surface flinger
 /* Changes are done from development branch */
+/* Changes are done from master branch1 */
 #include "surfaceflinger.h"
 
 #define RGBA8888(r, g, b, a)	\
