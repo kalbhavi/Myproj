@@ -9,6 +9,7 @@
 
 #include "surfaceflinger.h"
 // This is the one more change to test git
+// This is the second commit for rebase
 using namespace android;
 
 static sp<SurfaceComposerClient> android_client;
