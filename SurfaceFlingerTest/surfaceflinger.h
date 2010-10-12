@@ -6,7 +6,7 @@
 #ifdef __cplusplus
 extern "C" {
 #endif
-
+/* Another one more commit from development branch */
 int surfaceflinger_init(int x, int y, int w, int h, int *stride);
 void surfaceflinger_fini(void);
 
